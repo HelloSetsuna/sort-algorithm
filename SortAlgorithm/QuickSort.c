@@ -3,7 +3,6 @@
 // 快速排序
 // 平均时间复杂度是O(nlgn)
 
-
 // 中心划分（未优化）
 int partition(int arr[], int left, int right) {
 	// 中心值

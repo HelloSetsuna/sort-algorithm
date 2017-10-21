@@ -26,6 +26,9 @@ void quickSort(int arr[], int length);
 // 堆排序  函数声明
 void heapSort(int arr[], int length);
 
+// 希尔排序函数声明
+void shellSort(int arr[], int length);
+
 // ************ 排序函数声明结束 *********** //
 
 

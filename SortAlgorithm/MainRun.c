@@ -17,6 +17,10 @@ void main() {
 	// 堆  排序测试
 	Test("heap sort", heapSort);
 
-	// 阻塞
+	// 希尔排序测试
+	Test("shell sort", shellSort);
+
+
+
 	getchar();
 }

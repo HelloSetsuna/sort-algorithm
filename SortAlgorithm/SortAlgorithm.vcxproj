@@ -145,6 +145,7 @@
     <ClCompile Include="MainRun.c" />
     <ClCompile Include="QuickSort.c" />
     <ClCompile Include="SelectSort.c" />
+    <ClCompile Include="ShellSort.c" />
     <ClCompile Include="SortTest.c" />
   </ItemGroup>
   <ItemGroup>
